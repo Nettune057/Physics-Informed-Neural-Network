@@ -1,4 +1,4 @@
-# Physics-Informed-Neural-Networks (PINNs) (JUST A LITTLE EDIT, I AM NOT THE AUTHOR ORIGINAL OF THIS CODE)
+# Physics-Informed-Neural-Networks (PINNs) (JUST A LITTLE EDIT, I AM NOT THE ORIGINAL AUTHOR OF THIS CODE)
 
 PINNs were proposed by Raissi et al. in [1] to solve PDEs by incorporating the physics (i.e the PDE) and the boundary conditions in the loss function. The loss is the Mean-Squared Error of the PDE and boundary residual measured on 'collocation points' distributed across the domain. 
 
